@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MidtermExamPractice</string>
+    <string name="txtViewCar">This is a dream car</string>
+    <string name="txtViewAbout">About Rolls-Royce</string>
+</resources>

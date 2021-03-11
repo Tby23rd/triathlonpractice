@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lec3 concertDemo</string>
+    <string name="ConcertDemo">lec3 concert demo</string>
+    <string name="txtHint">Number of tickets</string>
+    <string name="spinnerPrompt">Concert Type</string>
+    <string name="btncalccost">Calculate Cost</string>
+    <string-array name="concertTypes">
+        <item>Rock Band</item>
+        <item>Jazz Band</item>
+        <item>Blues Band</item>
+    </string-array>
+</resources>

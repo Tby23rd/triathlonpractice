@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">class5</string>
+    <string name="navyPiertxtView">Navy Pier</string>
+    <string name="hoursTxtView">Hours</string>
+    <string name="navyPierImgView">Navy Pier Image</string>
+    <string name="artInstTxtView">Art Institute</string>
+    <string name="timeTxtView">Hours</string>
+    <string name="weekdayTxtView">Monday-Staurday 9:30am - 5:00pm</string>
+    <string name="weekendTxtView">Sunday 12pm - 4pm</string>
+    <string name="artInstImgView">Art Institue Image</string>
+    <string name="chicagoCityTxt">City of chicago</string>
+</resources>
